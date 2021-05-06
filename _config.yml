@@ -13,22 +13,4 @@ user_description: Weclome! Thanks for stopping by. If you would like to get in t
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
 
-<form
-  action="https://formspree.io/f/xoqyjrlg"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
-
 exclude: ['package.json', 'src' , 'node_modules']
